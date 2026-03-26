@@ -11,7 +11,7 @@
 
 <br>
 
-### 📊 Performance & Atividade
+### Activity
 ![GitHub Contributions](https://ghchart.rshah.org/2ea44f/maxwell-dev-ufc)
 
 <br>

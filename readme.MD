@@ -1,15 +1,12 @@
-# 🚀 maxwell-dev-ufc
-
-Estudante e Desenvolvedor focado em automação com Python e design regional. Atualmente aprimorando o ecossistema Ubuntu através de scripts e ferramentas de vídeo.
-
 ### 🛠️ Tech Stack
 **Python** | **Bash/Shell** | **Ubuntu Linux** | **Xilogravura Digital**
 
-### 📊 Performance & Stats
+### 📊 Contribuições & Status
+![GitHub Contributions](https://ghchart.rshah.org/0077B5/maxwell-dev-ufc)
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxwell-dev-ufc&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&icon_color=0077B5" height="150" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxwell-dev-ufc&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="150" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwell-dev-ufc&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" height="150" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxwell-dev-ufc&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff&icon_color=0077B5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwell-dev-ufc&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" height="150" />
 </p>
 
 ### 📫 Contato

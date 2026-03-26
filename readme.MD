@@ -1,5 +1,9 @@
 
-[![Email](https://img.shields.io/badge/Email-maxwellmaciellf@alu.ufc.br-2ea44f?style=flat-square&logo=gmail&logoColor=white)](mailto:maxwellmaciellf@alu.ufc.br)
+<p align="center">
+  <a href="mailto:maxwellmaciellf@alu.ufc.br">
+    <img src="https://img.shields.io/badge/-Email-2ea44f?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ### 🛠️ Tech Stack
 **Python** | **Bash/Shell** | **Ubuntu Linux** 

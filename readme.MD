@@ -6,7 +6,7 @@
 <br><br>
 
 ### 🛠️ Tech Stack
-**Python** | **Bash/Shell** | **Ubuntu Linux** | 
+**Python** 
 
 <br>
 

@@ -4,18 +4,14 @@
 </a>
 <br><br>
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,java,ubuntu&theme=dark" />
 </p>
-
 <br>
-
 ### Activity
 ![GitHub Contributions](https://ghchart.rshah.org/2ea44f/maxwell-dev-ufc)
-
 <br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=maxwell-dev-ufc&show_icons=true&theme=transparent&hide_border=true&title_color=2ea44f&text_color=ffffff&icon_color=2ea44f" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwell-dev-ufc&layout=compact&theme=transparent&hide_border=true&title_color=2ea44f&text_color=ffffff" height="150" />
 

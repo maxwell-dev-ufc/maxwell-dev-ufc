@@ -1,11 +1,8 @@
 <div align="center">
-
 <a href="mailto:maxwellmaciellf@alu.ufc.br">
   <img src="https://img.shields.io/badge/-Email-2ea44f?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 <br><br>
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,java,ubuntu&theme=dark" />
